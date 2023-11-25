@@ -12,7 +12,7 @@ Author: 	ThemeSINE
 Website: 	https://www.themesine.com/
 
 
-Changelog:
+Changelogs:
 -----------------------
 Version 1.0 14-05-2018
 - initial release 
